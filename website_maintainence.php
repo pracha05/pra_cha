@@ -1,4 +1,8 @@
 <?php include("header.php"); ?>
+<head>
+		<meta name="keywords" content="BEST SOFTWARE MAINTENANCE COMPANY IN HYDERABAD">
+        <meta name="description" content="Web Hosting administrations change from exchanges to exchanges according to the need and prerequisite of different organizations. We are giving web facilitating plans"/>
+        
        <style>
 		.opt5 {
     position: fixed;
@@ -17,7 +21,7 @@
     margin: 20px 0 0;
 }
 	   </style>
-
+</head>
 <!-- ==============================================
 **Who we Are**
 =================================================== -->

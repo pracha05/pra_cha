@@ -1,5 +1,8 @@
 <?php include("header.php"); ?>
-       <style>
+<head>
+		<meta name="keywords" content="BEST WEB DESIGNING COMPANY IN HYDERABAD-PRACHATECH">
+        <meta name="description" content="UI Design is the blend of Visual Design and Interaction Design. Visual Design is the look and feel of the site, and giving web designing live activities"/>
+        <style>
 		.opt5 {
     position: fixed;
     top: 0px;
@@ -8,6 +11,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
+</head>
 
 <!-- ==============================================
 **Who we Are**

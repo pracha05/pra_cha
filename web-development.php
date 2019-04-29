@@ -1,4 +1,8 @@
 <?php include("header.php"); ?>
+<head>
+		<meta name="keywords" content="BEST WEB DEVELOPMENT COMPANY IN HYDERABAD-PRACHATECH">
+        <meta name="description" content="We focus on many principle things to make the website much attractive, we focus on Custom Application Development, and providing web development live projects"/>
+        
        <style>
 		.opt5 {
     position: fixed;
@@ -8,7 +12,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
-
+</head>
 <!-- ==============================================
 **Who we Are**
 =================================================== -->

@@ -1,4 +1,8 @@
 <?php include("header.php"); ?>
+<head>
+		<meta name="keywords" content="BEST E-COMMERCE SERVICE IN HYDERABAD-PRACHATECH">
+        <meta name="description" content="Internet business is gigantic and it is consistently developing! Execute crosswise over social, local and national with ecommerce it is simpler to effectively"/>
+        
        <style>
 		.opt5 {
     position: fixed;
@@ -8,7 +12,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
-
+</head>
 <!-- ==============================================
 **Who we Are**
 =================================================== -->

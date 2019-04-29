@@ -1,4 +1,9 @@
 <?php include("header.php"); ?>
+ <head>
+  <meta name="keywords" content="BEST SOFTWARE SOLUTIONS IN HYDERABAD">
+        <meta name="description" content="WE ARE PROVIDING BEST SERVICES AND LIVE PROJECTS TRAINING FOR WEB DESIGNING, WEB DEVELOPMENT, MOBILE APPLICATIONS, DIGITAL MARKETING, E-COMMERCE, SOFTWARE MAINTENANCE "/>
+       
+  </head>
 <!--
 			<div class="banner slide3 banner5">
             <div class="container">

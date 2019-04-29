@@ -1,13 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
       
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="">
-        <meta name="author" content="">
-        <title>Prachatech</title>
+        <title>PRACHATECH SERVICES</title>
 		<link rel="icon" href="http://login.prachatech.com/assets/vendor/img/fav.png" >
         <!-- Bootstrap core CSS -->
         <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -36,9 +33,25 @@
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
                     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
                         <ul class="navbar-nav " style="width:100%">
-                         <?php $a_url=basename($_SERVER['SCRIPT_FILENAME']); ?>
+                         <?php $a_url=basename($_SERVER['SCRIPT_FILENAME']);
+
+$currentPath = $_SERVER['PHP_SELF']; 
+    
+    // output: Array ( [dirname] => /myproject [basename] => index.php [extension] => php [filename] => index ) 
+    $pathInfo = pathinfo($currentPath); 
+    
+    // output: localhost
+    $hostName = $_SERVER['HTTP_HOST']; 
+    
+    // output: http://
+    $protocol = strtolower(substr($_SERVER["SERVER_PROTOCOL"],0,5))=='https://'?'https://':'http://';
+   
+
+
+
+						 ?>
 							 <li class="nav-item dropdown "> 
-                                <a href="index.php" class="nav-link <?php if($a_url=='index.php' || $a_url=='' ){ echo "active_menu"; } ?>" id="dropdown1"  aria-expanded="false">Home</a>
+                                <a href="<?php echo $protocol.$hostName.$pathInfo['dirname']."/"; ?>" class="nav-link <?php if($a_url=='index.php' || $a_url=='' ){ echo "active_menu"; } ?>" id="dropdown1"  aria-expanded="false">Home</a>
                             </li>	
 							<li class="nav-item dropdown "> 
                                 <a href="about.php" class="nav-link <?php if($a_url=='about.php'){ echo "active_menu"; } ?>"  id="dropdown1"  aria-expanded="false">About Us</a>

@@ -1,4 +1,8 @@
 <?php include("header.php"); ?>
+<head>
+		<meta name="keywords" content="BEST DIGITAL MARKETING AGENCY IN HYDERABAD-SEO|SEM|SMM-PRACHATECH">
+        <meta name="description" content="As a general rule Digital Marketing is huge, it is a continuous procedure that should be refreshed every once in a while. And providing live projects like SEO, SMM, SEM etc."/>
+        
        <style>
 		.opt5 {
     position: fixed;
@@ -8,6 +12,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
+	   </head>
 
 <!-- ==============================================
 **Who we Are**

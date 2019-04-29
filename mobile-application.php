@@ -1,4 +1,8 @@
 <?php include("header.php"); ?>
+<head>
+		<meta name="keywords" content="BEST MOBILE APPLICATIONS COMPANY IN HYDERABAD-PRACHATECH">
+        <meta name="description" content="Portable Apps can profit your business in a genuine decent way. Portable applications are sorts to be specific: Native, Web and Hybrid Mobile application and live projects"/>
+        
        <style>
 		.opt5 {
     position: fixed;
@@ -8,6 +12,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
+</head>
 
 <!-- ==============================================
 **Who we Are**
