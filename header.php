@@ -51,7 +51,7 @@ $currentPath = $_SERVER['PHP_SELF'];
 
 						 ?>
 							 <li class="nav-item dropdown "> 
-                                <a href="<?php echo $protocol.$hostName.$pathInfo['dirname']."/"; ?>" class="nav-link <?php if($a_url=='index.php' || $a_url=='' ){ echo "active_menu"; } ?>" id="dropdown1"  aria-expanded="false">Home</a>
+                                <a href="<?php echo $protocol.$hostName.$pathInfo['dirname']; ?>" class="nav-link <?php if($a_url=='index.php' || $a_url=='' ){ echo "active_menu"; } ?>" id="dropdown1"  aria-expanded="false">Home</a>
                             </li>	
 							<li class="nav-item dropdown "> 
                                 <a href="about.php" class="nav-link <?php if($a_url=='about.php'){ echo "active_menu"; } ?>"  id="dropdown1"  aria-expanded="false">About Us</a>
