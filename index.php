@@ -1,29 +1,11 @@
 <?php include("header.php"); ?>
  <head>
+ <title>Prachatech Services</title>
   <meta name="keywords" content="BEST SOFTWARE SOLUTIONS IN HYDERABAD">
         <meta name="description" content="WE ARE PROVIDING BEST SERVICES AND LIVE PROJECTS TRAINING FOR WEB DESIGNING, WEB DEVELOPMENT, MOBILE APPLICATIONS, DIGITAL MARKETING, E-COMMERCE, SOFTWARE MAINTENANCE "/>
        
   </head>
-<!--
-			<div class="banner slide3 banner5">
-            <div class="container">
-                <div class="row cnt-block">
-                    <div class="col-md-12">
-                        <div class="left">
-                            <h1> <span id="typed"></span> <span class="fixed-txt">COMPANY IN HYDERABAD </span> </h1>
-                            <p>Developed for SaaS and Web Applications!</p>
-                           
-                            </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-12">
-                        <figure><img src="images/banner-slide3.png" class="img-fluid" alt=""></figure>
-                    </div>
-                </div>
-            </div>
-        </div>
-		-->
+
         <section class="banner-outer">
             <div class="banner-slider">
                
@@ -37,7 +19,7 @@
                                 </div>
                             </div>
 							 <div class="col-md-4 right-sec"> <a target="_blank" href="https://www.google.com/maps/place/PrachaTech+Software+Solutions/@17.494975,78.3862693,17z/data=!3m1!4b1!4m5!3m4!1s0x3bcb91f48aa2d613:0xe33ae6c3ea74c04e!8m2!3d17.494975!4d78.388458"> 
-								<img class="img-fluid animated fadeInRight delay-04s" src="images/prachamap.png" alt="location">
+								<img class="img-fluid animated fadeInRight delay-04s" src="images/prachamap.png" alt="banner1">
 							 </a>
                                 
                             </div>
@@ -45,7 +27,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-12">
-                                <figure class="animated fadeInUp delay-05s"><img src="images/banner-slide3.png" class="img-fluid" alt=""></figure>
+                                <figure class="animated fadeInUp delay-05s"><img src="images/banner-slide3.png" class="img-fluid" alt="banner1"></figure>
                             </div>
                         </div>
                     </div>
@@ -62,7 +44,7 @@
                         </div>
                         <div class="row">
                             <div class="col-md-12">
-                                <figure class="animated fadeInUp delay-05s"><img src="images/banner-slide3.png" class="img-fluid" alt=""></figure>
+                                <figure class="animated fadeInUp delay-05s"><img src="images/banner-slide3.png" class="img-fluid" alt="banner2"></figure>
                             </div>
                         </div>
                     </div>
@@ -98,7 +80,7 @@
 				<ul class=" row marketing-list">
                     <li class="col-md-4 bg-white p-3 wow slideInUP" data-wow-delay=".4s">
                         <div class="inner text-center">
-                            <figure><img src="images/web-design-icon.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="images/web-design-icon.png" class="img-fluid" alt="webdesigning"></figure>
                             <h3 class="">WEB DESIGNING</h3>
                             <p>User Interface Design is the combination of Visual Design and Interaction Design. Visual Design is the look and feel of the site, and Interaction Design is the way public interacts with your site.</p>
                             <a href="web-designing.php" class="know-more">Know More</a>
@@ -106,7 +88,7 @@
                     </li>     
 					<li class="col-md-4 bg-f9f9f9 p-3 wow slideInUP" data-wow-delay=".4s">
                         <div class="inner text-center">
-                            <figure><img src="images/web-development-icon.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="images/web-development-icon.png" class="img-fluid" alt="webdevelopment"></figure>
                             <h3 class="">WEB DEVELOPMENT</h3>
                             <p>We focus on many principle things to make the website much attractive, we focus on Custom Application Development, Content Management System, Ui & Ux Design and MEAN  Stack Development etc.</p>
                             <a href="web-development.php" class="know-more">Know More</a>
@@ -114,7 +96,7 @@
                     </li> 
 					 <li class="col-md-4 bg-white p-3 wow slideInUP" data-wow-delay=".4s">
                         <div class="inner text-center">
-                            <figure><img src="images/mobile-app-icon.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="images/mobile-app-icon.png" class="img-fluid" alt="mobileapp"></figure>
                             <h3 class="">MOBILE APP DEVELOPMENT</h3>
                             <p>Mobile Apps can benefit your business in a real good manner. Mobile apps are three types namely: Native Mobile apps, Web apps and Hybrid Mobile apps.</p>
                             <a href="mobile-application.php" class="know-more">Know More</a>
@@ -122,7 +104,7 @@
                     </li>  
 					<li class="col-md-4 bg-f9f9f9 p-3">
                         <div class="inner text-center">
-                            <figure><img src="images/digital-mar-icon.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="images/digital-mar-icon.png" class="img-fluid" alt="digitalmarketing"></figure>
                             <h3 class="">DIGITAL MARKETING</h3>
                             <p>In reality Digital Marketing is very vast, it is an ongoing process that needs to be updated from time to time. The major functionalities in Digital Marketing are SEO, SMM, Google Adwords and more... </p>
                             <a href="digital-marketing-company-in-hyderabad.php" class="know-more">Know More</a>
@@ -130,7 +112,7 @@
                     </li> 
 					 <li class="col-md-4 bg-white p-3">
                         <div class="inner text-center">
-                            <figure><img src="images/ecommerce-dev-icon.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="images/ecommerce-dev-icon.png" class="img-fluid" alt="ecommerce"></figure>
                             <h3 class="">E-COMMERCE </h3>
                             <p>ECommerce is huge and it is ever growing! eCommerce allows the transact across cultural, regional and national in a more convenient and cost effective way, with eCommerce it is easier to successfully </p>
                             <a href="ecommerce.php" class="know-more">Know More</a>
@@ -138,11 +120,11 @@
                     </li> 
 					<li class="col-md-4 bg-f9f9f9 p-3">
                         <div class="inner text-center">
-                            <figure><img src="images/web-hosting-icon.png" class="img-fluid" alt=""></figure>
+                            <figure><img src="images/web-hosting-icon.png" class="img-fluid" alt="webhosting"></figure>
                             <h3 class="">WEB HOSTING </h3>
                             <p>Web Hosting services vary from trades to trades as per the necessity and requirement of various companies. We are providing different types of web hosting plans
 						</p>
-                            <!--<a href="#" class="know-more">Know More</a>-->
+                            
 						</div>
                     </li> 
 				
@@ -225,7 +207,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Real Estate and Property</h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/real-estate.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/real-estate.png" class="img-fluid rounded-circle" alt="real-estate"></figure>
                             </div>
 						</div>
                     </li> 
@@ -233,7 +215,7 @@
                         <div class="inner"> 
                             <h4 class="h1">On-Demand Solutions</h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/demand.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/demand.png" class="img-fluid rounded-circle" alt="demand"></figure>
                             </div>
 						</div>
                     </li>	
@@ -241,7 +223,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Social Networking</h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/network.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/network.png" class="img-fluid rounded-circle" alt="network"></figure>
                             </div>
 						</div>
                     </li>	
@@ -249,7 +231,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Food & Restaurant </h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/food.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/food.png" class="img-fluid rounded-circle" alt="food"></figure>
                             </div>
 						</div>
                     </li>
@@ -257,7 +239,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Banking, Finance & Insurance </h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/insurance.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/insurance.png" class="img-fluid rounded-circle" alt="insurance"></figure>
                             </div>
 						</div>
                     </li>
@@ -265,7 +247,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Education & Training </h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/education.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/education.png" class="img-fluid rounded-circle" alt="education"></figure>
                             </div>
 						</div>
                     </li>
@@ -273,7 +255,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Ecommerce, B2B & B2C </h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/ecommerce.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/ecommerce.png" class="img-fluid rounded-circle" alt="ecommerce"></figure>
                             </div>
 						</div>
                     </li>
@@ -281,7 +263,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Travel & Hospitality  </h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/hospitality.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/hospitality.png" class="img-fluid rounded-circle" alt="hospitality"></figure>
                             </div>
 						</div>
                     </li>
@@ -289,7 +271,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Healthcare & Fitness</h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/fitness.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/fitness.png" class="img-fluid rounded-circle" alt="fitness"></figure>
                             </div>
 						</div>
                     </li>
@@ -297,7 +279,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Transport & Automotive</h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/transport.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/transport.png" class="img-fluid rounded-circle" alt="transport"></figure>
                             </div>
 						</div>
                     </li>	
@@ -305,7 +287,7 @@
                         <div class="inner"> 
                             <h4 class="h1">Event and Tickets </h4>
                             <div class="client-detail">
-                                <figure><img src="images/industries/tickets.png" class="img-fluid rounded-circle" alt=""></figure>
+                                <figure><img src="images/industries/tickets.png" class="img-fluid rounded-circle" alt="tickets"></figure>
                             </div>
 						</div>
                     </li>
@@ -317,16 +299,16 @@
          <section class="brands">
             <div class="container">
                 <ul class="owl-carousel clearfix">
-                    <li><a ><img src="images/frameworks/html.png" class="img-fluid" alt=""></a></li>
-                    <li><a ><img src="images/frameworks/ps.png" class="img-fluid" alt=""></a></li>
-                    <li><a ><img src="images/frameworks/magento.png" class="img-fluid" alt=""></a></li>
-                    <li><a ><img src="images/frameworks/mdb.png" class="img-fluid" alt=""></a></li>
-                    <li><a ><img src="images/frameworks/bootstrap.png" class="img-fluid" alt=""></a></li>
-                    <li><a ><img src="images/frameworks/css.png" class="img-fluid" alt=""></a></li>
-					<li><a ><img src="images/frameworks/codeigniter.png" class="img-fluid" alt=""></a></li>	
-					<li><a ><img src="images/frameworks/js.png" class="img-fluid" alt=""></a></li>	
-					<li><a ><img src="images/frameworks/jquery.png" class="img-fluid" alt=""></a></li>	
-					<li><a ><img src="images/frameworks/laravel.png" class="img-fluid" alt=""></a></li>
+                    <li><a ><img src="images/frameworks/html.png" class="img-fluid" alt="Hypertext Markup Language"></a></li>
+                    <li><a ><img src="images/frameworks/ps.png" class="img-fluid" alt="photo shop"></a></li>
+                    <li><a ><img src="images/frameworks/magento.png" class="img-fluid" alt="magento"></a></li>
+                    <li><a ><img src="images/frameworks/mdb.png" class="img-fluid" alt="Material Design Bootstrap"></a></li>
+                    <li><a ><img src="images/frameworks/bootstrap.png" class="img-fluid" alt="Bootstrap"></a></li>
+                    <li><a ><img src="images/frameworks/css.png" class="img-fluid" alt="Cascading Style Sheet"></a></li>
+					<li><a ><img src="images/frameworks/codeigniter.png" class="img-fluid" alt="Codeigniter"></a></li>	
+					<li><a ><img src="images/frameworks/js.png" class="img-fluid" alt="JavaScript"></a></li>	
+					<li><a ><img src="images/frameworks/jquery.png" class="img-fluid" alt="Jquery"></a></li>	
+					<li><a ><img src="images/frameworks/laravel.png" class="img-fluid" alt="Laravel"></a></li>
                 </ul>
             </div>
         </section>

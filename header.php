@@ -4,7 +4,6 @@
       
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <title>PRACHATECH SERVICES</title>
 		<link rel="icon" href="http://login.prachatech.com/assets/vendor/img/fav.png" >
         <!-- Bootstrap core CSS -->
         <link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">

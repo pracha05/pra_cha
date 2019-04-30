@@ -1,4 +1,6 @@
 <?php include("header.php"); ?>
+<head>
+	<title>Prachatech | Aboutus</title>
        <style>
 		.opt5 {
     position: fixed;
@@ -8,7 +10,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
-
+</head>
 <!-- ==============================================
 **Who we Are**
 =================================================== -->
@@ -133,16 +135,16 @@
 		<section class="brands">
             <div class="container">
                 <ul class="owl-carousel clearfix">
-                    <li><a href="#"><img src="images/frameworks/html.png" class="img-fluid" alt=""></a></li>
-                    <li><a href="#"><img src="images/frameworks/ps.png" class="img-fluid" alt=""></a></li>
-                    <li><a href="#"><img src="images/frameworks/magento.png" class="img-fluid" alt=""></a></li>
-                    <li><a href="#"><img src="images/frameworks/mdb.png" class="img-fluid" alt=""></a></li>
-                    <li><a href="#"><img src="images/frameworks/bootstrap.png" class="img-fluid" alt=""></a></li>
-                    <li><a href="#"><img src="images/frameworks/css.png" class="img-fluid" alt=""></a></li>
-					<li><a href="#"><img src="images/frameworks/codeigniter.png" class="img-fluid" alt=""></a></li>	
-					<li><a href="#"><img src="images/frameworks/js.png" class="img-fluid" alt=""></a></li>	
-					<li><a href="#"><img src="images/frameworks/jquery.png" class="img-fluid" alt=""></a></li>	
-					<li><a href="#"><img src="images/frameworks/laravel.png" class="img-fluid" alt=""></a></li>
+                    <li><a href="#"><img src="images/frameworks/html.png" class="img-fluid" alt="Hypertext Markup Language"></a></li>
+                    <li><a href="#"><img src="images/frameworks/ps.png" class="img-fluid" alt="Photoshop"></a></li>
+                    <li><a href="#"><img src="images/frameworks/magento.png" class="img-fluid" alt="magento"></a></li>
+                    <li><a href="#"><img src="images/frameworks/mdb.png" class="img-fluid" alt="Material Design Bootstrap"></a></li>
+                    <li><a href="#"><img src="images/frameworks/bootstrap.png" class="img-fluid" alt="Bootstrap"></a></li>
+                    <li><a href="#"><img src="images/frameworks/css.png" class="img-fluid" alt="Cascading Style Sheet"></a></li>
+					<li><a href="#"><img src="images/frameworks/codeigniter.png" class="img-fluid" alt="codeigniter"></a></li>	
+					<li><a href="#"><img src="images/frameworks/js.png" class="img-fluid" alt="JavaScript"></a></li>	
+					<li><a href="#"><img src="images/frameworks/jquery.png" class="img-fluid" alt="Jquery"></a></li>	
+					<li><a href="#"><img src="images/frameworks/laravel.png" class="img-fluid" alt="Laravel"></a></li>
                 </ul>
             </div>
         </section>

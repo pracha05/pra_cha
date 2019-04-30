@@ -1,14 +1,16 @@
 <?php include("header.php"); ?>
+<head>
+<title>Prachatech | Blog</title>
        <style>
 		.opt5 {
     position: fixed;
-    top: 0px;
+    top: 0px;	
     background: #233059;
     border-bottom: 1px #12192f solid;
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
-
+</head>
 		 <section class="inner-banner py-4">
             <div class="container">
                 <div class="contents">
@@ -26,7 +28,7 @@
                 <div class="row">
                     <div class="col-md-8 col-lg-8">
                         <div class="blog-content blog-detailed">
-                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/top_five_social_neworking_sites.png" alt=""></figure>
+                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/top_five_social_neworking_sites.png" alt="top five social networking sites"></figure>
                             <p class="time">1-July  <span>2018 </span></p>
                             <h5>Top 5 Social Networking Sites</h5>
                         </div>

@@ -1,10 +1,6 @@
-	
-
 <?php include("header.php"); ?>
-
-	<html>
-	<body>
-
+<head>
+	<title>Prachatech | Contactus</title>
        <style>
 		.opt5 {
     position: fixed;
@@ -14,6 +10,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
+</head>
 	   <?php if(isset($_GET['success']) && $_GET['success']==1){ ?>
 	   <script>alert('Your request successfully sent');</script>
 	   <?php }else if(isset($_GET['success'])&& $_GET['success']==2){?>
@@ -82,8 +79,8 @@
                                
                                 <ul class="info-contact-box">
                                     <li>
-                                        <h5>Prachatech software solutions</h5>
-                                        <p>H.No: 16-2-227/177,1st Floor,Beside Sri Chaitanya High School, Sardar Patel Nagar, Opp Nizampet X-Road, Hyderabad, Telangana - 500072</p>
+                                        <h5>Prachatech Software Solutions</h5>
+                                        <p>Flat-306, Fortune Signature Building, Nizampet X Roads, Sardar Patel Nagar (Near JNTU Metro station), KPHB, Hyderabad- 500072, Telangana, INDIA</p>
                                     </li>
                                     <li>
                                         <h5>040-48541273</h5>
@@ -112,7 +109,7 @@
 =================================================== -->
         <section class="">
            
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3805.2624634669423!2d78.38626931379687!3d17.49498010430049!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb91f48aa2d613%3A0xe33ae6c3ea74c04e!2sPrachaTech+Software+Solutions!5e0!3m2!1sen!2sin!4v1551784635970" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15220.805702566095!2d78.3900965!3d17.4978956!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe33ae6c3ea74c04e!2sPrachaTech+Software+Solutions!5e0!3m2!1sen!2sin!4v1556609916796!5m2!1sen!2sin" width="100%" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
         </section>
  
 <?php include("footer.php"); ?>

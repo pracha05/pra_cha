@@ -1,4 +1,6 @@
 <?php include("header.php"); ?>
+<head>
+<title>Prachatech | Blog</title>
        <style>
 		.opt5 {
     position: fixed;
@@ -8,7 +10,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
-
+</head>
 		 <section class="inner-banner py-4">
             <div class="container">
                 <div class="contents">
@@ -26,7 +28,7 @@
                 <div class="row">
                     <div class="col-md-8 col-lg-8">
                         <div class="blog-content blog-detailed">
-                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/what-is-ecommerce.png" alt=""></figure>
+                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/what-is-ecommerce.png" alt="ecommerce"></figure>
                             <p class="time">15-April<span>2018 </span></p>
                             <h5>What Is ECommerce And How Many Types Of ECommerce Are There?</h5>
                          
@@ -117,7 +119,7 @@
                 </div>
                 <div class="row justify-content-md-center py-5">
                     <div class="text-center">
-                        <img class="img-fluid" src="images/blog/the-process-of-ecommerce.png" alt="How Social Media Works">
+                        <img class="img-fluid" src="images/blog/the-process-of-ecommerce.png" alt="process of ecommerce">
                     </div>
                 </div>
                 <div class="row ">

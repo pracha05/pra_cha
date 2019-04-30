@@ -1,4 +1,6 @@
 <?php include("header.php"); ?>
+<head>
+<title>Prachatech | Blog</title>
        <style>
 		.opt5 {
     position: fixed;
@@ -8,7 +10,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
-
+</head>
 		 <section class="inner-banner py-4">
             <div class="container">
                 <div class="contents">
@@ -26,7 +28,7 @@
                 <div class="row">
                     <div class="col-md-8 col-lg-8">
                         <div class="blog-content blog-detailed">
-                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/key-elements-to-design-a-best-website.png" alt=""></figure>
+                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/key-elements-to-design-a-best-website.png" alt="key elements to design a website"></figure>
                             <p class="time">1-June <span>2018 </span></p>
                             <h5>Key Elements To Be Considered While Designing A Website</h5>
                          

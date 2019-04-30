@@ -1,4 +1,6 @@
 <?php include("header.php"); ?>
+<head>
+<title>Prachatech | Blog</title>
        <style>
 		.opt5 {
     position: fixed;
@@ -8,7 +10,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
-
+</head>
 		 <section class="inner-banner py-4">
             <div class="container">
                 <div class="contents">
@@ -26,7 +28,7 @@
                 <div class="row">
                     <div class="col-md-8 col-lg-8">
                         <div class="blog-content blog-detailed">
-                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/importance_of_mobile_apps_in_business.png" alt=""></figure>
+                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/importance_of_mobile_apps_in_business.png" alt="mobile apps business"></figure>
                             <p class="time">15-May<span>2018 </span></p>
                             <h5>Importance Of Mobile Apps In Business</h5>
                          

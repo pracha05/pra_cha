@@ -1,4 +1,6 @@
 <?php include("header.php"); ?>
+<head>
+<title>Prachatech | Blog</title>
        <style>
 		.opt5 {
     position: fixed;
@@ -8,7 +10,7 @@
     box-shadow: 0 3px 2px rgba(0, 0, 0, 0.04);
 }
 	   </style>
-
+</head>
 		 <section class="inner-banner py-4">
             <div class="container">
                 <div class="contents">
@@ -26,7 +28,7 @@
                 <div class="row">
                     <div class="col-md-8 col-lg-8">
                         <div class="blog-content blog-detailed">
-                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/social-media-marketing-blog-view.png" alt=""></figure>
+                              <figure class="blog-pic"><img class="img-fluid img-thumbnail" src="images/blog/social-media-marketing-blog-view.png" alt="social media marketing"></figure>
                             <p class="time">1-April<span>2018 </span></p>
                             <h5>Social Media Marketing And Its Benefits</h5>
                          
@@ -80,7 +82,7 @@
                         </div>
                         <div class="row justify-content-md-center">
                             <div class="text-center">
-                                <img class="img-resposive" src="http://prachatech.com/assets/vendor/img/how-social-media-works.png" alt="How Social Media Marketing And Its Benefits Works">
+                                <img class="img-resposive" src="images/blog/how-social-media-works.png" alt="How Social Media Marketing And Its Benefits Works">
                             </div>
                         </div>
                         <div class="row ">
