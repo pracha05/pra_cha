@@ -3,6 +3,7 @@
 <head>
       
         <meta charset="utf-8">
+		<meta name="google-site-verification" content="j3jwTOkhg6U57i7noFD9zUEj7O5tS3hrT7sOXEVZDNg" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<link rel="icon" href="http://login.prachatech.com/assets/vendor/img/fav.png" >
         <!-- Bootstrap core CSS -->
@@ -24,7 +25,13 @@
         <link href="css/custom.css" rel="stylesheet">
     </head>
     <body>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
 
+		  gtag('config', 'UA-139438365-1');
+		</script>
         <header class="opt5 opt6 " style="z-index:1600;"> 
            
             <nav class="navbar navbar-expand-lg navbar-light ">
