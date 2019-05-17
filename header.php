@@ -25,13 +25,15 @@
         <link href="css/custom.css" rel="stylesheet">
     </head>
     <body>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139438365-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-		  gtag('config', 'UA-139438365-1');
-		</script>
+  gtag('config', 'UA-139438365-1');
+</script>
         <header class="opt5 opt6 " style="z-index:1600;"> 
            
             <nav class="navbar navbar-expand-lg navbar-light ">
