@@ -1,9 +1,9 @@
 <?php include( "header.php"); ?>
 
 <head>
-	<title>Best web Designing company in hyderabad | PRACHATECH</title>
-	<meta name="keywords" content="BEST WEB DESIGNING COMPANY IN HYDERABAD-PRACHATECH">
-	<meta name="description" content="UI Design is the blend of Visual Design and Interaction Design. Visual Design is the look and feel of the site, and giving web designing live activities" />
+	<title>Best Web Designing Agency In Hyderabad | Prachatech Pvt. Ltd.</title>
+	<meta name="keywords" content="Web designing service in hyderabad">
+	<meta name="description" content="UI Design is the blend of Visual Design and Interaction Design. Visual Design is the look and feel of the site, and giving webdesigning live activities" />
 	<style>
 		.opt5 {
     position: fixed;
@@ -97,42 +97,42 @@
 					<div role="tabpanel" class="tab-pane active" id="tab1">
 						<h2 class="text-center">Site Architecture And Design</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/site-architecture.png" alt="site-architecture" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/site-architecture.png" alt="Site Architecture And Design" class=" thumbnail">
 						</div>
 						<p>Site architecture is the crucial thing in developing a website, for instance before constructing a house we need an engineer to draw the architecture, so also a website needs a designer to develop the architecture which is done at a web designing agency. Website architecture deals with the principles of design and construction and ornamentation of fine websites. Before designing site architecture we need to have a complete research on our Customer, Competitor and Product or Service. Depending upon the research we need to develop content, UI and UX designs for the website. Under UX Design we work on Wireframing, Prototyping, Testing, Development Planning, Execution and Analytics etc. Under UI Design we test Look and Feel, Responsive website, UI Prototyping, Animation, Autofit to all screen sizes and Interactive etc.</p>
 					</div>
 					<div role="tabpanel" class="tab-pane " id="tab2">
 						<h2 class="text-center">Static & Dynamic Website Design</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/static-dynamic.png" alt="static-dynamic" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/static-dynamic.png" alt="Static & Dynamic Website Design" class=" thumbnail">
 						</div>
 						<p>A Static website has stagnant content usually written in HTML code, and every page has to be saved separately on the server. Changes have to be made manually every time, and you need coding knowledge to make any kind of changes. A Dynamic website’s construction is controlled by an application server processed by server-side scripts. Pages of the website are dynamically populated every time and are not coded and saved separately, but the design or template look and feel is saved separately. We at Pracha Technologies, a web designing agency in hyderabad are expertised in creating any sort of complex websites especially ecommerce websites at affordable prices to encourage the startups and mid-level companies .</p>
 					</div>
 					<div role="tabpanel" class="tab-pane " id="tab3">
 						<h2 class="text-center">Responsive Web Design</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/responsive-design.png" alt="responsive-design" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/responsive-design.png" alt="Responsive Web Design" class=" thumbnail">
 						</div>
 						<p>In this generation, due to heavy use of technology and various gadgets, people view websites on various devices with different screen sizes. So it is good to think about the responsive design for your site to make your websites mobile friendly, because there is a rapid usage of smartphones and tablets these days. We make the site easy to use and easy to view, no matter which device it is viewed on. Therefore we make our clients websites as “Responsive Website”, meaning the design responds to the specifications of the device. From HD sized monitor to palm sized smartphone we make the videos, graphics, links, text, page width, colours etc., to be adjusted automatically to screen size. As a web designing agency in Hyderabad, we make your company's website to be responsive to all sorts of devices and work their best on every screen to guard your online reputation.</p>
 					</div>
 					<div role="tabpanel" class="tab-pane " id="tab4">
 						<h2 class="text-center">Custom Web Design</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/custom-web-design.png" alt="custom-web-design" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/custom-web-design.png" alt="Custom Web Design" class=" thumbnail">
 						</div>
 						<p>A Custom web design allows you to establish your brand and to express what is unique about the product or services you are providing. There are many areas that needs to be focused to develop a custom web design, especially the design should be pleasing to the viewers i.e theme, logo, banner, flash animation etc., must be impressive. Navigation is very important, without which the viewer will be frustrated. Content is the final thing that makes your customer to sit on the website, so a professional content writer is preferable to write the content of your website. Your website needs personality, and our web designing agency in Hyderabad will help you to come up with unique features, from start to finish. Important factors to consider are navigation, ease of use, layout, graphics, colour scheme, etc.</p>
 					</div>
 					<div role="tabpanel" class="tab-pane " id="tab5">
 						<h2 class="text-center">Corporate Website Design</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/corporate-design.png" alt="corporate-design" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/corporate-design.png" alt="Corporate Website Design" class=" thumbnail">
 						</div>
 						<p>Corporate website design is unique in nature, it is not like ecommerce or portal sites. It focuses on providing information rather than generating business transactions and other services. Almost every well established company will have a separate corporate website to provide information to its customers or visitors. Usually it covers topics like history of the company, summary of company operations, mission, products, services, board members, press release, news etc., it serves as a powerful tool that makes your website customer friendly and eventually leads to the increase in sales. We, as a web designing agency in Hyderabad have a professional team to design the corporate site of our clients according to their specifications at affordable prices.</p>
 					</div>
 					<div role="tabpanel" class="tab-pane " id="tab6">
 						<h2 class="text-center">Template Design & Customization</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/template-design.png" alt="template-design" class="thumbnail">
+							<img style="width:300px;height:auto;" src="images/template-design.png" alt="Template Design & Customization" class="thumbnail">
 						</div>
 						<p>Designing an attractive and responsive template is also very essential to a website. Depending upon the requirement of our client we build templates with HTML5, CSS3, bootstrap, Java script, JQuery, etc. We apply global CSS code for all the website templates that allows any sort of further changes in colour, font, layout and design etc. We, as a web designing agency in Hyderabad have in-house professionals to design such templates with attractive colour combinations and an elegant style, who move according to the specifications of our clients.</p>
 					</div>

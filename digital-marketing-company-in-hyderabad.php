@@ -1,8 +1,8 @@
 <?php include("header.php"); ?>
 <head>
-<title>Best Digital Marketing Agency In Hyderabad-SEO|SEM|SMM | PRACHATECH</title>
-		<meta name="keywords" content="BEST DIGITAL MARKETING AGENCY IN HYDERABAD-SEO|SEM|SMM-PRACHATECH">
-        <meta name="description" content="As a general rule Digital Marketing is huge, it is a continuous procedure that should be refreshed every once in a while. And providing live projects like SEO, SMM, SEM etc."/>
+<title>Digital marketing services in hyderabad | Prachatech Pvt. Ltd.</title>
+		<meta name="keywords" content="Digital marketing services in hyderabad">
+        <meta name="description" content=":As a general rule Digital Marketing is huge, it is a continuous procedure that should be refreshed every once in a while.and providing live projects like SEO,SMM,SEM etc."/>
         
        <style>
 		.opt5 {
