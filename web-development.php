@@ -1,8 +1,8 @@
 <?php include( "header.php"); ?>
 <head>
-	<title>Best web Development company in hyderabad | PRACHATECH</title>
-	<meta name="keywords" content="BEST WEB DEVELOPMENT COMPANY IN HYDERABAD-PRACHATECH">
-	<meta name="description" content="We focus on many principle things to make the website much attractive, we focus on Custom Application Development, and providing web development live projects" />
+	<title>Web development company in hyderabad | Prachatech Pvt. Ltd.</title>
+	<meta name="keywords" content="Best web development company in hyderabad">
+	<meta name="description" content="We focus on many principle things to make the website much attractive, we focus on Custom Application Development,and providing web development live projects" />
 	<style>
 		.opt5 {
     position: fixed;
@@ -78,28 +78,28 @@
 					<div role="tabpanel" class="tab-pane active" id="tab1">
 						<h2 class="text-center">Custom Application Development</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/custom-application-development.png" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/custom-application-development.png" alt="Custom Application Development" class=" thumbnail">
 						</div>
 						<p>Site architecture is the crucial thing in developing a website, for instance before constructing a house we need an engineer to draw the architecture, so also a website needs a designer to develop the architecture which is done at a web designing agency. Website architecture deals with the principles of design and construction and ornamentation of fine websites. Before designing site architecture we need to have a complete research on our Customer, Competitor and Product or Service. Depending upon the research we need to develop content, UI and UX designs for the website. Under UX Design we work on Wireframing, Prototyping, Testing, Development Planning, Execution and Analytics etc. Under UI Design we test Look and Feel, Responsive website, UI Prototyping, Animation, Autofit to all screen sizes and Interactive etc.</p>
 					</div>
 					<div role="tabpanel" class="tab-pane " id="tab2">
 						<h2 class="text-center">Content Management System (CMS)</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/content-management-system.png" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/content-management-system.png" alt="Content Management System" class=" thumbnail">
 						</div>
 						<p>Content Management System is a user friendly technology that manages the content within the website, now it is also a powerful tool on the internet for web development. Generally CMS is used for the websites where content is changed very often. The most popular open source content management systems are Wordpress, Drupal, Thumbler and Joomla. CMS has high performance & scalability, and can easily integrate with other technologies and work on various platforms. In open source, we can do our own modifications in our desired way.</p>
 					</div>
 					<div role="tabpanel" class="tab-pane " id="tab3">
 						<h2 class="text-center">ECommerce Web Development</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/ecommerce-web-design.png" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/ecommerce-web-design.png" alt="ECommerce Web Development" class=" thumbnail">
 						</div>
 						<p>Electronic commerce is the buying and selling of products and goods, or transmitting of data or funds majorly on the internet. There are six types of eCommerce websites namely: Business to Customer (B2C), Business to Business (B2B), Customer to Customer (C2C), Customer to Business (C2B), Business to Government (B2G) and Mobile Commerce (m-commerce). Mobile commerce (m-commerce) is particularly done through mobile only. Our clients considered us as the best eCommerce web development company in Hyderabad, who offers various web services, and develop new ecommerce websites with highly secured payment transactions and many other user friendly functionalities.</p>
 					</div>
 					<div role="tabpanel" class="tab-pane " id="tab4">
 						<h2 class="text-center">MEAN Stack Development</h2>
 						<div class="py-4 text-center">
-							<img style="width:300px;height:auto;" src="images/mean-stack-development.png" class=" thumbnail">
+							<img style="width:300px;height:auto;" src="images/mean-stack-development.png" alt="MEAN Stack Development" class=" thumbnail">
 						</div>
 						<p>MEAN is a combination of technologies that makes simple and quick to create web applications. MEAN is an open-source software package that combines the four most advanced web development frameworks.</p>
 						<p><strong> Mongo DB </strong> - Is the database that stores your application.</p>

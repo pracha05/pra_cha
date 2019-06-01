@@ -1,8 +1,8 @@
 <?php include( "header.php"); ?>
 <head>
-	<title>Best Mobile Applications company in hyderabad | PRACHATECH</title>
-	<meta name="keywords" content="BEST MOBILE APPLICATIONS COMPANY IN HYDERABAD-PRACHATECH">
-	<meta name="description" content="Portable Apps can profit your business in a genuine decent way. Portable applications are sorts to be specific: Native, Web and Hybrid Mobile application and live projects" />
+	<title>Mobile app development services in hyderabad | Prachatech Pvt. Ltd.</title>
+	<meta name="keywords" content="Best mobile app development services in hyderabad">
+	<meta name="description" content="Portable Apps can profit your business in a genuine decent way. Portable applications are sorts to be specific: Native,Web and Hybrid Mobile application and live projects" />
 	<style>
 		.opt5 {
     position: fixed;

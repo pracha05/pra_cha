@@ -1,8 +1,8 @@
 <?php include("header.php"); ?>
  <head>
- <title>Prachatech Services</title>
+ <title>Best software solutions in hyderabad | Prachatech Pvt. Ltd.</title>
   <meta name="keywords" content="BEST SOFTWARE SOLUTIONS IN HYDERABAD">
-        <meta name="description" content="WE ARE PROVIDING BEST SERVICES AND LIVE PROJECTS TRAINING FOR WEB DESIGNING, WEB DEVELOPMENT, MOBILE APPLICATIONS, DIGITAL MARKETING, E-COMMERCE, SOFTWARE MAINTENANCE "/>
+        <meta name="description" content="Prachatech is best software solutions in hyderabad which offers services webdesigning,webdevelopment,digital marketing,mobile applications,e-commerce,software maintenance"/>
        
   </head>
 
