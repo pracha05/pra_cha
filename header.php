@@ -80,6 +80,9 @@ $currentPath = $_SERVER['PHP_SELF'];
                             </li>
                            	<li class="nav-item dropdown "> 
                                 <a href="portfolio.php" class="nav-link <?php if($a_url=='portfolio.php'){ echo "active_menu"; } ?>" id="dropdown1"  aria-expanded="false">Portfolio</a>
+                            </li>	
+							<li class="nav-item dropdown "> 
+                                <a href="team.php" class="nav-link <?php if($a_url=='team.php'){ echo "active_menu"; } ?>" id="dropdown1"  aria-expanded="false">Team</a>
                             </li>
 								
 							<li class="nav-item dropdown "> 

@@ -2,7 +2,7 @@
 <head>
 <title>Digital marketing services in hyderabad | Prachatech Pvt. Ltd.</title>
 		<meta name="keywords" content="Digital marketing services in hyderabad">
-        <meta name="description" content=":As a general rule Digital Marketing is huge, it is a continuous procedure that should be refreshed every once in a while.and providing live projects like SEO,SMM,SEM etc."/>
+        <meta name="description" content=" Prachatech is best Digital Marketing Services in Hyderabad. We offer digital marketing services SEO services, SMM and SEM services, web design, graphic designing, mobile responsive design, web development and mobile application development. "/>
         
        <style>
 		.opt5 {

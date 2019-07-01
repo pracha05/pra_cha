@@ -57,11 +57,11 @@
 				</div>
 				<div class="col-md-4">
 					<div class="career-info-panel equal-hight">
-						<h3 class="text-center">PHP Developer
+						<h3 class="text-center">Sr PHP Developer
 							</h3>
 						<div class="text-center">	<span>Codeigniter Framework</span>
 						</div>
-						<p class="text-center">2-3 years of experience</p>
+						<p class="text-center">3-5 years of experience</p>
 						<ul>
 							<li>Write "clean", well-designed code</li>
 						</ul>

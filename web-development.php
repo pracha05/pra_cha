@@ -2,7 +2,7 @@
 <head>
 	<title>Web development company in hyderabad | Prachatech Pvt. Ltd.</title>
 	<meta name="keywords" content="Best web development company in hyderabad">
-	<meta name="description" content="We focus on many principle things to make the website much attractive, we focus on Custom Application Development,and providing web development live projects" />
+	<meta name="description" content="Prachatech is one of the experienced and best web development company in hyderabad. We offer creative web design, graphic designing, mobile responsive design, web development, mobile application development and digital marketing services." />
 	<style>
 		.opt5 {
     position: fixed;

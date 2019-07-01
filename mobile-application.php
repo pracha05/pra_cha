@@ -2,7 +2,7 @@
 <head>
 	<title>Mobile app development services in hyderabad | Prachatech Pvt. Ltd.</title>
 	<meta name="keywords" content="Best mobile app development services in hyderabad">
-	<meta name="description" content="Portable Apps can profit your business in a genuine decent way. Portable applications are sorts to be specific: Native,Web and Hybrid Mobile application and live projects" />
+	<meta name="description" content="Prachatech is best mobile app development company in hyderabad. we offer responsive mobile design, web site design, graphic design and digital marketing services." />
 	<style>
 		.opt5 {
     position: fixed;

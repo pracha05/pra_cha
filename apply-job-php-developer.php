@@ -31,15 +31,15 @@
 				<tbody>
 					<tr>
 						<th>Designation</th>
-						<td>PHP Developer</td>
+						<td>Sr PHP Developer</td>
 					</tr>
 					<tr>
 						<th>Eligibility</th>
-						<td>2-3 years of experience</td>
+						<td>3-5 years of experience</td>
 					</tr>
 					<tr>
 						<th>Qualification</th>
-						<td>B.Tech</td>
+						<td>Graduate  or any other PG</td>
 					</tr>
 					<tr>
 						<th>Job Type</th>
@@ -47,11 +47,11 @@
 					</tr>
 					<tr>
 						<th>Number of positions</th>
-						<td>1</td>
+						<td>3</td>
 					</tr>
 					<tr>
 						<th>Salary</th>
-						<td>2,40,000 – 3,00,000</td>
+						<td>Negotiable based on the Current CTC.</td>
 					</tr>
 				</tbody>
 			</table>

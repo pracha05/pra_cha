@@ -2,8 +2,8 @@
 
 <head>
 	<title>Best Web Designing Agency In Hyderabad | Prachatech Pvt. Ltd.</title>
-	<meta name="keywords" content="Web designing service in hyderabad">
-	<meta name="description" content="UI Design is the blend of Visual Design and Interaction Design. Visual Design is the look and feel of the site, and giving webdesigning live activities" />
+	<meta name="keywords" content="Best Web designing Agency in hyderabad">
+	<meta name="description" content="Prachatech is one of the best web designing agency in hyderabad. We offer creative web design, graphic designing, mobile responsive design, web development, mobile application development and digital marketing services." />
 	<style>
 		.opt5 {
     position: fixed;
