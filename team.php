@@ -58,7 +58,7 @@
             <h3>Arya Chatterjee</h3>
             <p style="margin:0">Regional Business Head</p>
 			<div>Mobile: 9830349568 </div>
-			<div class="email-size">Email: pushkar@prachatech.com </div>
+			<div class="email-size">Email: aryachatterjee@prachatech.com </div>
           </div>
 		</li>
 			<li class="col-12 col-md-6 col-lg-3">
