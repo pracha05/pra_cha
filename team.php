@@ -183,7 +183,7 @@
       </li> 
 	  <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><img src="http://www.webcoderskull.com/img/team2.png" class="img-responsive" alt=""></figure>
+            <figure><img src="images/team/nagesh.png" class="img-responsive" alt="nagesh "></figure>
             <h3>Nagesh</h3>
             <p style="margin:0">Inside Sales</p>
 			<div>Mobile: 9014437007 </div>
@@ -210,7 +210,7 @@
       </li>  
 	  <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><img src="http://www.webcoderskull.com/img/team2.png" class="img-responsive" alt=""></figure>
+            <figure><img src="images/team/koti.png" class="img-responsive" alt="koti"></figure>
             <h3>Koti</h3>
             <p style="margin:0">Digital Marketing Executive</p>
 			<div>Mobile: 8978127273 </div>
