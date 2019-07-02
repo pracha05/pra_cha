@@ -98,7 +98,7 @@
 		</div>
 	</div>
 	<div class="bottom">
-		<div class="container h6 text-white">Copyright By Pracha Technologies Pvt Ltd.</div>
+		<div class="container h6 text-white">Copyright By Pracha Technologies Pvt Ltd. <a href="privacypolicy.php" class="text-primary">Privacy Policy</a></div>
 	</div>
 </footer>
 <!-- Scroll to top --> <a href="#" class="scroll-top"><i class="fa fa-angle-up" aria-hidden="true"></i></a> 
