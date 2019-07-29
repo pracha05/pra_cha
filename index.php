@@ -51,7 +51,15 @@
                 </div>
             </div>
         </section>
-
+<section class="inner-banner py-4" style="min-height:100px;">
+	<div class="container">
+		<div class="row">
+			
+			<h3 class="col-md-8 text-white">You are one step ahead to start career in IT industry!!!</h3>
+			<button class="btn btn-priamry col-md-2 " data-toggle="modal" data-target="#fullHeightModalRight">Join Now</button>
+		</div>
+	</div>
+</section>
         <section class="content-marketing pt-40">
             <div class="container">
                 <div class="row justify-content-center">
@@ -295,7 +303,79 @@
                 </ul>
             </div>
         </section>
+<!-- Full Height Modal Right -->
+<div class="modal fade right" id="fullHeightModalRight" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+  aria-hidden="true">
 
+  <!-- Add class .modal-full-height and then add class .modal-right (or other classes from list above) to set a position to the modal -->
+  <div class="modal-dialog modal-full-height modal-right" role="document">
+
+
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title w-100" id="myModalLabel">You are one step ahead to start career in IT industry!!!</h4>
+        
+      </div>
+      <div class="modal-body">
+        <div class="row">
+			<div class="col-md-6">
+				<img src="images/softwaretraing.png" class="img-fluid">
+			</div>
+			<div class="col-md-6">
+				<form>
+					<div class="row">
+						<div class="col-md-12 input-col">
+						<div class="form-group">
+							
+							<input class="form-control" name="name" placeholder="Enter your Name" type="text" required="">
+						</div>
+						</div>
+						<div class="col-md-12 input-col">
+							<div class="form-group">
+								
+								<input class="form-control" name="name" placeholder="Enter your Mobile" type="text" required="">
+							</div>
+						</div>
+						<div class="col-md-12 input-col">
+							<div class="form-group">
+				
+								<input class="form-control" name="name" placeholder="Enter your Email id" type="email" required="">
+							</div>
+						</div>	
+						<div class="col-md-12 input-col">
+							<div class="form-group">
+				
+								<select class="form-control">
+									<option>Select Technology Type</option>
+									<option>Web Design</option>
+									<option>Web Development</option>
+									<option>Mobile applications </option>
+									<option>Digital Marketing</option>
+								</select>
+							</div>
+						</div>
+						<div class="col-md-12 input-col">
+							<div class="form-group">
+				
+								<textarea class="form-control">Comment</textarea>
+							</div>
+						</div>
+						
+					</div>
+				
+			</div>
+		</div>
+      </div>
+      <div class="modal-footer justify-content-center">
+	  <button type="button" class="btn btn-success">Save changes</button>
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
+        
+      </div>
+	  </form>
+    </div>
+  </div>
+</div>
+<!-- Full Height Modal Right -->
          <section class="brands">
             <div class="container">
                 <ul class="owl-carousel clearfix">
