@@ -80,7 +80,7 @@
                                 <ul class="info-contact-box">
                                     <li>
                                         <h5>Prachatech Software Solutions</h5>
-                                        <p>Flat-306, Fortune Signature Building, Nizampet X Roads, Sardar Patel Nagar (Near JNTU Metro station), KPHB, Hyderabad- 500072, Telangana, INDIA</p>
+                                        <p>MIG-68, 1st Floor, Road No:1, Near YSR Statue, KPHB, Hyderabad,   Telangana-500072,INDIA</p>
                                     </li>
                                     <li>
                                         <h5>040-48541273</h5>

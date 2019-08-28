@@ -91,7 +91,7 @@
 						<strong class="text-white">Phone Number :  040-48541273</strong>
 						<div>	<strong class="text-white">Email :  support@prachatech.com</strong>
 						</div>
-						<p class="text-white py-4">Flat-306, Fortune Signature Building, Nizampet X Roads, Sardar Patel Nagar (Near JNTU Metro station), KPHB, Hyderabad- 500072, Telangana, INDIA.</p>
+						<p class="text-white py-4">MIG-68, 1st Floor, Road No:1, Near YSR Statue, KPHB, Hyderabad, Telangana-500072,INDIA.</p>
 					</div>
 				</div>
 			</div>
