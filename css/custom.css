@@ -133,8 +133,8 @@ select:focus {
 }
 .btn {
 	display: inline-block;
-	padding: 14px 45px;
-	background: #57bce2;
+	/* padding: 14px 45px; */
+	/* background: #57bce2; */
 	font-size: 16px;
 	color: #fff;
 	font-weight: 700;

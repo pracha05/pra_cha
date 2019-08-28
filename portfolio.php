@@ -114,29 +114,9 @@
 					</figure>
 				</div>
 			</li>
-			<li class="col-6 col-md-4 isotopeSelector company">
-				<div class="inner">
-					<div class="overlay">
-						<h2>www.swiftinvestmentsltd.com</h2>
-						<p>Static Website</p> <a class="galleryItem" href="images/portfolio/swiftinvestmentsltd.png"><span class="icon-expand"></span></a>
-					</div>
-					<figure>
-						<img src="images/portfolio/swiftinvestmentsltd.png" class="img-responsive" alt="swiftinvestmentsltd">
-					</figure>
-				</div>
-			</li>
-			<li class="col-6 col-md-4 isotopeSelector company">
-				<div class="inner">
-					<div class="overlay">
-						<h2>www.knusliinvestments.com</h2>
-						<p>CMS Website</p> <a class="galleryItem" href="images/portfolio/knusliinvestments.png"><span class="icon-expand"></span></a>
-					</div>
-					<figure>
-						<img src="images/portfolio/knusliinvestments.png" class="img-responsive" alt="knusliinvestments">
-					</figure>
-				</div>
-			</li>
-			<li class="col-6 col-md-4 isotopeSelector company">
+			
+			
+			<!--<li class="col-6 col-md-4 isotopeSelector company">
 				<div class="inner">
 					<div class="overlay">
 						<h2>www.kaciff.org</h2>
@@ -146,7 +126,7 @@
 						<img src="images/portfolio/kaciff.png" class="img-responsive" alt="kaciff">
 					</figure>
 				</div>
-			</li>
+			</li>-->
 			<li class="col-6 col-md-4 isotopeSelector company">
 				<div class="inner">
 					<div class="overlay">
